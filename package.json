@@ -1,0 +1,24 @@
+{
+  "name": "react-native-template",
+  "version": "1.0.0",
+  "description": "React Native template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moukrime/react-native-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "template",
+    "react-native-template",
+    "javascript"
+  ],
+  "author": "Abdelhaq Moukrime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moukrime/react-native-template/issues"
+  },
+  "homepage": "https://github.com/moukrime/react-native-template#readme"
+}
