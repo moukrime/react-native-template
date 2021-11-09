@@ -1,5 +1,5 @@
 {
-  "name": "awesomeproject",
+  "name": "AwesomeProject",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -19,7 +19,8 @@
     "react-native-gesture-handler": "^1.10.3",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.8.0",
-    "react-native-svg": "^12.1.1"
+    "react-native-svg": "^12.1.1",
+    "react-native-vector-icons": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
